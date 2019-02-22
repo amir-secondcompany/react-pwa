@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
-    "url": "/react-pwa/static/media/outline-icons.ef60a4f6.woff"
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/react-pwa/static/media/outline-icons.cd6c777f.woff2"
   },
   {
     "revision": "8e6ae719df97b6d61635",
@@ -24,6 +24,10 @@ self.__precacheManifest = [
     "url": "/react-pwa/static/media/flags.9c74e172.png"
   },
   {
+    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
+    "url": "/react-pwa/static/media/icons.8e3c7f55.eot"
+  },
+  {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
     "url": "/react-pwa/static/media/icons.0ab54153.woff2"
   },
@@ -32,12 +36,8 @@ self.__precacheManifest = [
     "url": "/react-pwa/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
-    "url": "/react-pwa/static/media/icons.8e3c7f55.eot"
-  },
-  {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/react-pwa/static/media/outline-icons.cd6c777f.woff2"
+    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
+    "url": "/react-pwa/static/media/icons.b87b9ba5.ttf"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/react-pwa/static/js/main.8e6ae719.chunk.js"
   },
   {
-    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
-    "url": "/react-pwa/static/media/icons.b87b9ba5.ttf"
+    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
+    "url": "/react-pwa/static/media/outline-icons.ef60a4f6.woff"
   },
   {
     "revision": "ad97afd3337e8cda302d10ff5a4026b8",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/react-pwa/static/media/outline-icons.82f60bd0.svg"
   },
   {
-    "revision": "13db00b7a34fee4d819ab7f9838cc428",
-    "url": "/react-pwa/static/media/brand-icons.13db00b7.eot"
-  },
-  {
     "revision": "962a1bf31c081691065fe333d9fa8105",
     "url": "/react-pwa/static/media/icons.962a1bf3.svg"
+  },
+  {
+    "revision": "13db00b7a34fee4d819ab7f9838cc428",
+    "url": "/react-pwa/static/media/brand-icons.13db00b7.eot"
   },
   {
     "revision": "e8c322de9658cbeb8a774b6624167c2c",
